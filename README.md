@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Bareedu Subbaiah</h1>
-<h3 align="center">SQL Developer | ETL Engineer | Data Analyst</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=SQL+Developer+%7C+ETL+Engineer+%7C+Data+Analyst" />
+</p>
 <p align="center">
 🚀 Building scalable data pipelines & high-performance SQL systems
 </p>
