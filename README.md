@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bareedu-subbaiah/bareedu-subbaiah/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/bareedusubbaiah/bareedusubbaiah/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bareedu Subbaiah</h1>
@@ -21,50 +21,31 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 SQL / MSBI Developer at **Tata Consultancy Services (TCS)**  
-- 🧠 3+ years experience in **SQL Server, ETL & Data Engineering**  
-- ⚡ Improved query performance by **30–40%**  
-- 📊 Built dashboards using **Power BI & SSRS**  
-- ☁️ Working with **Azure Data Factory, Azure SQL, Blob Storage**  
-- 🏦 Domain: **Banking, Finance & Insurance (AIG Client)**  
+- 💼 SQL / MSBI Developer at **TCS**  
+- 🧠 3+ years in **SQL Server, ETL & Data Engineering**  
+- ⚡ Improved performance by **30–40%**  
+- 📊 Power BI | SSRS | SSIS | Azure Data Factory  
+- 🏦 Banking & Insurance Domain (AIG Client)
 
 ---
 
 ## 🛠️ Tech Stack
-
-**SQL & Database**  
-`SQL Server` `T-SQL` `Stored Procedures` `Performance Tuning`
-
-**ETL & Data Engineering**  
-`SSIS` `Azure Data Factory` `Data Pipelines` `Data Warehousing`
-
-**BI & Analytics**  
-`Power BI` `SSRS` `DAX` `Excel`
-
-**Cloud & Tools**  
-`Azure SQL` `Blob Storage` `Git` `GitHub`
+`SQL Server` `T-SQL` `SSIS` `ADF` `Power BI` `Azure` `Performance Tuning`
 
 ---
 
 ## 🚀 Impact
-- 🚀 Built **100+ SQL objects** improving performance by **30–40%**  
-- ⚡ Developed **ETL pipelines** processing millions of records  
-- 📉 Reduced execution time by **35%**  
-- 📊 Improved reporting efficiency by **40%**  
-- ☁️ Automated **On-Prem → Azure migration**  
+- 🚀 Built **100+ SQL objects**
+- ⚡ Processed **millions of records via ETL**
+- 📉 Reduced execution time by **35%**
+- 📊 Improved reporting efficiency by **40%**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/bareedu-subbaiah-sql-developer  
 - 📧 Email: bareedusubbaiah217@gmail.com  
-- 💻 GitHub: https://github.com/bareedu-subbaiah  
-- 🧑‍💻 HackerRank: https://www.hackerrank.com/YOUR-USERNAME  
-
----
-
-## ⚡ Focus
-`SQL Optimization` `ETL Pipelines` `Data Engineering` `Azure` `Performance Tuning`
+- 💻 GitHub: https://github.com/bareedusubbaiah  
 
 ---
 
